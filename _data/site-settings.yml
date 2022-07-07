@@ -1,0 +1,23 @@
+seo:
+  site_name: 
+  title: Default SEO Title 
+  description: 
+  keywords:
+  social_image:
+  author:
+  favicon_image:
+social:  
+  instagram_username: 
+  facebook_url:
+  twitter_username:
+design:  
+  brand-1_color: '#BFD7EA'
+  brand-2_color: '#EDC9FF'
+  brand-3_color: '#F5EE9E'
+  brand-1_font: "'Poppins', sans-serif"
+  brand-2_font: "'Nanum Gothic Coding', monospace"
+  brand-3_font: '"Oswald", sans-serif'
+
+
+
+ 
